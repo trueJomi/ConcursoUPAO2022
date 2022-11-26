@@ -8,6 +8,11 @@ def reconocer_dias():
 def reconocer_mes():
     pass
 
+def obtener_e_identificar_feriado():
+    pass
+
+
+
 
 def run():
     
