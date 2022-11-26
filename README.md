@@ -1,5 +1,4 @@
 # Concurso UPAO 2022
-
 ### Problema 1
 El problema de las Torres de Hanoi es un problema clásico de recursión. Se tienen 3 torres y un conjunto de discos de diferentes tamaños. Cada disco tiene una perforación en el centro que le permite ensartarse en cualquiera de las torres. Los discos han de encontrarse siempre situados en alguna de las torres. Inicialmente todos están en la misma torre, ordenados de mayor a menor, como se muestra en el dibujo. Se deben averiguar los movimientos necesarios para pasar todos los discos a otra torre, utili- zando la tercera como auxiliar y cumpliendo las siguientes reglas:
 
@@ -10,6 +9,7 @@ El problema de las Torres de Hanoi es un problema clásico de recursión. Se tie
 
 
 Para N=3 la solución del problema emplica los siguentes movimeintos.
+
 1. De 1 a 2
 2. De 1 a 3
 3. De 2 a 3
@@ -18,9 +18,41 @@ Para N=3 la solución del problema emplica los siguentes movimeintos.
 6. De 3 a 2
 7. De 1 a 2
 
-
 ### Problema 2
 Realice un programa que realice el cifrado de un texto contenido en archivo, mediante la conversión de cada uno de sus caracteres al lenguaje, Marciano 1, el cual se describe a continuación:
+
+| Carácter  | Equivalente (6 caracteres sin espacios)  |
+| :------------: | :------------: |
+| A |  ...... |
+| B |  ...... |
+| C  |  ...... |
+| D |  ...... |
+| E  |  ...... |
+| F  |  ...... |
+|  G |  ...... |
+|  H |  ...... |
+|  I |  ...... |
+|  J |  ...... |
+|  K |  ...... |
+|  L |  ...... |
+|  M |  ...... |
+|  N |  ...... |
+|  O |  ...... |
+|  P |  ...... |
+|  Q |  ...... |
+|  R |  ...... |
+|  S |  ...... |
+|  T |  ...... |
+|  U |  ...... |
+|  V |  ...... |
+|  W |  ...... |
+
+
+Ejemplo del archivo de entrada:
+>`Esta es la frase a codificar`
+
+Ejemplo del archivo de salida:
+
 
 ### Problema 3
 La gente que prepara problemas para un concurso de programación, espera el fin de semana para hacer problemas que aterroricen a los concursantes. Asi que antes de que empiece un mes, los programadores de problemas tratan de calcular el número de dias de fin de semana que usan en ese mes y planes en consecuencia. ¿Puedes ayudarlos a Calcular esto? Hay siete dias en una semana es domingo (SUN), Lunes (lunes), martes (TUE), miércoles (WED), jueves (THU), viernes (FRI) y sábado (SAB).
@@ -38,14 +70,15 @@ Ilustración que muestra la 3era entrada: En la tercera entrada de muestra se no
 
 Ejemplo de entrada
 
-3
-JAN SUN
-FEB SUN
-OCT THU
-29 30
+>`3`
+`JAN SUN`
+`FEB SUN`
+`OCT THU`
+`29 30 `
 
 Salida de la muestra
 
-8
-8
-10
+>`8`
+`8`
+`10`
+`
