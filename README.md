@@ -82,13 +82,6 @@ Ejemplo de entrada
 
 Salida de la muestra
 
-<<<<<<< HEAD
     8
     8
     10
-=======
->`8`
-`8`
-`10`
-`
->>>>>>> 6eb4c9eb05722b25e2fc51dad2cbb228b00e46f0
