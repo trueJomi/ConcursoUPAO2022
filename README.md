@@ -6,7 +6,7 @@ El problema de las Torres de Hanoi es un problema clásico de recursión. Se tie
 
 - No puede quedar un disco sobre otro de menor tamaño.
 
-
+[![20221127-000550.jpg](https://i.postimg.cc/vBj6Dc3R/20221127-000550.jpg)](https://postimg.cc/DJrzMf95)
 
 Para N=3 la solución del problema emplica los siguentes movimeintos.
 
@@ -67,6 +67,8 @@ La primera linea contiene un número entero T (Ts 100), que indica el número de
 Para cada línea de entrada produce una linea de salida. Contiene un solo entero que denota el número de los días de fin de semana (viernes y sábados) en ese mes:
 
 Ilustración que muestra la 3era entrada: En la tercera entrada de muestra se nos pide qué Dias de fin de semana de un mes de octubre cuyo primer día (October 1) es el jueves. El calendario de la izquierda muestra esto y se puede ver que hay 10 días de fin de semana (color Rojo) en este mes.
+
+[![20221127-000543.jpg](https://i.postimg.cc/3xVWHdrz/20221127-000543.jpg)](https://postimg.cc/YvNt62Wx)
 
 Ejemplo de entrada
 
