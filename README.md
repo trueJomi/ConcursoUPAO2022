@@ -49,10 +49,12 @@ Realice un programa que realice el cifrado de un texto contenido en archivo, med
 
 
 Ejemplo del archivo de entrada:
->`Esta es la frase a codificar`
+
+    Esta es la frase a codificar
 
 Ejemplo del archivo de salida:
 
+    Frase a codificada xD
 
 ### Problema 3
 La gente que prepara problemas para un concurso de programación, espera el fin de semana para hacer problemas que aterroricen a los concursantes. Asi que antes de que empiece un mes, los programadores de problemas tratan de calcular el número de dias de fin de semana que usan en ese mes y planes en consecuencia. ¿Puedes ayudarlos a Calcular esto? Hay siete dias en una semana es domingo (SUN), Lunes (lunes), martes (TUE), miércoles (WED), jueves (THU), viernes (FRI) y sábado (SAB).
@@ -70,15 +72,14 @@ Ilustración que muestra la 3era entrada: En la tercera entrada de muestra se no
 
 Ejemplo de entrada
 
->`3`
-`JAN SUN`
-`FEB SUN`
-`OCT THU`
-`29 30 `
+    3
+    JAN SUN
+    FEB SUN
+    OCT THU
+    29 30 
 
 Salida de la muestra
 
->`8`
-`8`
-`10`
-`
+    8
+    8
+    10
