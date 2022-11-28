@@ -14,7 +14,7 @@ def cifrar(frase:str):
 
 
 def run():
-    frase='hola1'
+    frase='Esta esla frase a codificar'
     print(cifrar(frase))
 
 if __name__ == "__main__":
